@@ -1,0 +1,22 @@
+{
+  "name": "gmdmelconlist",
+  "version": "1.0.0",
+  "description": "Melconlist",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spcreat/GMDMelconList.git"
+  },
+  "author": "spcreat, orizu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spcreat/GMDMelconList/issues"
+  },
+  "homepage": "https://github.com/spcreat/GMDMelconList#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
